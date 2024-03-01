@@ -1,0 +1,32 @@
+body {
+    background-color: snow;
+    margin: 200px;
+    margin-top: 450px;
+    color: mistyrose;
+}
+
+p {
+    font-size: 20px;
+}
+
+p:hover {
+    text-decoration: line-through;
+}
+
+.list-item {
+    color: mistyrose;
+    font-size: 20 px;
+}
+
+.rectangle {
+    height: 430px;
+    width: 1000px;
+    background-color: mistyrose;
+    position: fixed;
+    top: 5px
+}
+
+span {
+    background-color: lavenderblush;
+    border-color: white;
+}
